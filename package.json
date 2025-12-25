@@ -1,6 +1,8 @@
 {
-  "name": "@once-ui-system/magic-portfolio",
-  "version": "2.0.0",
+  "name": "nextjs-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "export": "next export",
@@ -8,6 +10,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.26.2",
   "dependencies": {
     "@floating-ui/react-dom": "^2.1.2",
     "@mdx-js/loader": "^3.1.0",
